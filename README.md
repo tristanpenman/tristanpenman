@@ -1,14 +1,12 @@
-# Tristan Penman 👋
+# Hello, I'm Tristan 👋
 
-Hacker at ♡
-
-### Essentials
+### 📌 Essentials
 
 - 🧠 Interests: Edge AI, Homebrew & Retro Hardware, Systems & Tooling
 - 🌏 Location: Melbourne, Australia
 - ✍️ Writing: [tristanpenman.com](https://tristanpenman.com)
 
-### On my radar... 📡
+### 📡 On my radar...
 
 - **Edge AI / NPUs**: Getting transformers and other models to run well on embedded devices.
 - **Protocol Deep Dives**: Implementing real-world protocols end-to-end, learning how to design better protocols.
