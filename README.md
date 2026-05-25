@@ -1,4 +1,6 @@
-# Hello, I'm Tristan 👋
+# Welcome 😎
+
+I'm an engineer, currently at [Vivi](https://vivi.io), where I work on Edge AI, Infrastructure and Embedded Systems.
 
 ### 📌 Essentials
 
